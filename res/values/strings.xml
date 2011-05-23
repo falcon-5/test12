@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleQRCodeViewer</string>
+    <string name="btn_Browse">更新</string>
+    <string name="default_url">http://google.co.jp</string>
+    <string name="message">しばらくお待ちください</string>
+</resources>
